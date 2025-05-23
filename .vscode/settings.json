@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.codeActionsOnSave": {"source.organizeImports.black": "explicit"},
+    "editor.formatOnSave": true
+}
