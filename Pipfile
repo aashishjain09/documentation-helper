@@ -11,6 +11,7 @@ langchain-community = "*"
 black = "*"
 python-dotenv = "*"
 langchain-pinecone = "*"
+streamlit = "*"
 
 [dev-packages]
 
